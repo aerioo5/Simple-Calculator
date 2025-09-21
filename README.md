@@ -11,7 +11,7 @@ It supports addition, subtraction, multiplication, division, and clear/delete fu
 - Hosted on GitHub Pages for easy access
 
 ## 🚀 Live Demo
-[Click here to try it]()
+[Click here to try it](https://aerioo5.github.io/Simple-Calculator/)
 
 ## 🛠️ Technologies Used
 - HTML5
