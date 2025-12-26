@@ -21,7 +21,10 @@ It supports addition, subtraction, multiplication, division, and clear/delete fu
 ## 📸 Preview
 <img width="1366" height="657" alt="Simple-calculator-09-21-2025_05_34_PM" src="https://github.com/user-attachments/assets/58c04726-c687-44cf-a3e4-03f0d789f203" />
 
+## Acknowledgements
+This project was developed as a learning exercise. Thanks to online resources and documentation that helped during development.
 
----
-Made with ❤️ for learning web development.
+## Author
+Developed by [Aditi]  
+GitHub: [https://github.com/your-username](https://github.com/aerioo5)
 
